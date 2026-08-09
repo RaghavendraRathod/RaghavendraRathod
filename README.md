@@ -1,16 +1,41 @@
-## Hi there 👋
+# Hi, I'm Raghavendra 👋
 
-<!--
-**RaghavendraRathod/RaghavendraRathod** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Software Engineering Student  
+💻 Building web applications and open-source projects  
+🚀 Exploring software engineering, DSA, and emerging technologies
 
-Here are some ideas to get you started:
+## About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm a software engineering student who enjoys building practical projects and learning how things work under the hood.
+
+I'm currently focusing on:
+
+- Full-stack web development
+- Data Structures & Algorithms
+- Software engineering
+- Open-source projects
+- Exploring emerging technologies
+
+## 🚀 Featured Projects
+
+Here are some of the projects I'm working on:
+
+- **Resume Builder** — A web application for creating resumes.
+- More projects coming soon...
+
+## 🛠️ Technologies
+
+`C` `C++` `Java` `Python` `JavaScript` `TypeScript`  
+`React` `Node.js` `Express` `MongoDB` `Git` `GitHub`
+
+## ❤️ Support My Work
+
+If you find my projects useful and would like to support my open-source journey:
+
+👉 [Sponsor me on GitHub](https://github.com/sponsors/RaghavendraRathod)
+
+Every bit of support helps me spend more time building, learning, and sharing projects.
+
+---
+
+⭐ Feel free to explore my repositories and follow my journey!
