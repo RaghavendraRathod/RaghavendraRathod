@@ -21,7 +21,7 @@ I'm currently focusing on:
 Here are some of the projects I'm working on:
 
 -**ScoutAI**  - AI-powered opportunity-search application.
--**mern-ai-starter**
+-**mern-ai-starter** - "MERN starter kit with streaming AI chat, MongoDB history, and rate limiting".
 - **Resume Builder** — A web application for creating resumes.
   
 
