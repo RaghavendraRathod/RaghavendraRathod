@@ -20,12 +20,14 @@ I'm currently focusing on:
 
 Here are some of the projects I'm working on:
 
+-**ScoutAI**  - AI-powered opportunity-search application.
+-**mern-ai-starter**
 - **Resume Builder** — A web application for creating resumes.
-- More projects coming soon...
+  
 
 ## 🛠️ Technologies
 
-`C` `C++` `Java` `Python` `JavaScript` `TypeScript`  
+`C` `C++` `Python` `JavaScript` `TypeScript`  
 `React` `Node.js` `Express` `MongoDB` `Git` `GitHub`
 
 ## ❤️ Support My Work
