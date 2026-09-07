@@ -63,7 +63,12 @@ Building increasingly complex software systems while strengthening my foundation
 
 ## 💻 Other Projects
 
-- **[Resume Builder](https://github.com/RaghavendraRathod/resume-builder)** — React-based resume builder for creating and organizing professional resumes.
+- **[Resume Builder](https://github.com/RaghavendraRathod/resume-builder)**
+      React-based resume builder for creating and organizing professional resumes.
+
+🌐 **[Live Demo](https://resume-builder-peach-phi.vercel.app/)**
+
+  
 - **MERN AI Starter** — Starter application for building AI-powered MERN applications with streaming chat, MongoDB history, and rate limiting.
 
 ---
@@ -71,7 +76,7 @@ Building increasingly complex software systems while strengthening my foundation
 ## 🤝 Connect
 
 - **GitHub:** [@RaghavendraRathod](https://github.com/RaghavendraRathod)
-- **LinkedIn:** [Connect with me](www.linkedin.com/in/raghavendrarathod)
+  **LinkedIn:** [Connect with me](https://www.linkedin.com/in/raghavendrarathod/)
 
 ---
 
