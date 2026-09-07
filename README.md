@@ -1,42 +1,77 @@
 # Hi, I'm Raghavendra 👋
 
-🎓 Software Engineering Student  
-💻 Building web applications and open-source projects  
-🚀 Exploring software engineering, DSA, and emerging technologies
+### Software Engineering Student | AI & Full-Stack Developer 
 
-## About Me
+I'm a software engineering student focused on building practical software, exploring AI-powered applications, and developing strong foundations in **Data Structures & Algorithms and Computer Science**.
 
-I'm a software engineering student who enjoys building practical projects and learning how things work under the hood.
+I enjoy turning ideas into working products and learning how software systems work under the hood.
 
-I'm currently focusing on:
+---
 
-- Full-stack web development
+## 🚀 Featured Project
+
+### [ScoutAI](https://github.com/RaghavendraRathod/ScoutAI)
+
+An AI-powered opportunity discovery platform that uses **Google Gemini and live web search** to find, analyze, and personalize internships and career opportunities.
+
+**Tech:** React · TypeScript · Vite · Node.js · Express · Gemini API · SerpApi
+
+🌐 **[Live Demo](https://scout-ai-ecru.vercel.app/)**
+
+🎥 **[Watch the Demo](https://youtu.be/dIam5hIkMDQ)**
+
+---
+
+## 🛠️ Tech Stack
+
+### Languages
+`C` `C++` `Java` `Python` `JavaScript` `TypeScript` `SQL`
+
+### Frontend
+`React` `TypeScript` `Vite` `HTML` `CSS`
+
+### Backend
+`Node.js` `Express.js` `REST APIs`
+
+### Databases & Tools
+`MongoDB` `Git` `GitHub` `VS Code`
+
+### AI & Cloud
+`Google Gemini` `SerpApi` `Vercel` `Render`
+
+---
+
+## 📚 Currently Learning
+
 - Data Structures & Algorithms
-- Software engineering
-- Open-source projects
-- Exploring emerging technologies
+- Object-Oriented Programming
+- DBMS
+- Operating Systems
+- Computer Networks
+- System Design
+- Backend & Distributed Systems
+- AI/LLM Application Development
+- Cloud & DevOps
 
-## 🚀 Featured Projects
+---
 
-Here are some of the projects I'm working on:
+## 🎯 What I'm Working Toward
 
- **ScoutAI**         -  AI-powered opportunity-search application.
- **mern-ai-starter** - "MERN starter kit with streaming AI chat, MongoDB history, and rate limiting".
- **Resume Builder**  —  A React-based resume builder for creating and organizing professional resumes.
-  
+Building increasingly complex software systems while strengthening my foundations in **DSA, backend engineering, distributed systems, AI, and system design**.
 
-## 🛠️ Technologies
+---
 
-`C` `C++` `Python` `JavaScript` `TypeScript`  
-`React` `Node.js` `Express` `MongoDB` `Git` `GitHub`
+## 💻 Other Projects
 
-## ❤️ Support My Work
+- **[Resume Builder](https://github.com/RaghavendraRathod/resume-builder)** — React-based resume builder for creating and organizing professional resumes.
+- **MERN AI Starter** — Starter application for building AI-powered MERN applications with streaming chat, MongoDB history, and rate limiting.
 
-If you find my projects useful and would like to support my open-source journey:
+---
 
-👉 [Sponsor me on GitHub](https://github.com/sponsors/RaghavendraRathod)
+## 🤝 Connect
 
-Every bit of support helps me spend more time building, learning, and sharing projects.
+- **GitHub:** [@RaghavendraRathod](https://github.com/RaghavendraRathod)
+- **LinkedIn:** [Connect with me](www.linkedin.com/in/raghavendrarathod)
 
 ---
 
